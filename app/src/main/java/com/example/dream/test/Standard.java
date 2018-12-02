@@ -10,7 +10,7 @@ import android.widget.TextView;
 public class Standard {
     Activity activity;
    protected Button btnAC;
-    protected   Button btnDel;
+    protected  Button btnDel;
     protected Button btnfen;
     protected Button btnchu;
     protected Button btnseven;
@@ -20,15 +20,15 @@ public class Standard {
     protected Button btnfour;
     protected Button btnfive;
     protected  Button btnsix;
-    Button btnjian;
-    Button btnone;
-    Button btntwo;
-    Button btnthree;
-    Button btnjia;
-    Button btnzero;
-    Button btnchange1;
-    Button btndian;
-    Button btndeng;
+    protected  Button btnjian;
+    protected  Button btnone;
+    protected  Button btntwo;
+    protected   Button btnthree;
+    protected  Button btnjia;
+    protected  Button btnzero;
+    protected  Button btnchange1;
+    protected   Button btndian;
+    protected   Button btndeng;
     protected Double res;
 
 protected String answer;

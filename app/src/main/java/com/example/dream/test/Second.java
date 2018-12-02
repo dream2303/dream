@@ -7,10 +7,10 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class Second extends Standard {
-    Button btnsin;
-    Button btncos;
-    Button btntan;
-    Button btnln;
+    protected  Button btnsin;
+    protected  Button btncos;
+    protected  Button btntan;
+    protected  Button btnln;
 
     public Second(Activity activity) {
         super(activity);
